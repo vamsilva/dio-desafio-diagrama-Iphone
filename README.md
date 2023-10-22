@@ -6,11 +6,8 @@ O desafio em questão ilustra a organização de classes e interfaces de um sist
 
 # Descrição das Interfaces e Classes
 
-Reprodutor Musical (ReprodutorMusical)
-Responsável pela implementação de funcionalidades relacionadas à reprodução de arquivos de áudio. Ela possui métodos como pesquisarMusica(), pesquisarArtista(), tocarMusica() e pausarMusica().
+Reprodutor Musical (ReprodutorMusical):  Responsável pela implementação de funcionalidades relacionadas à reprodução de arquivos de áudio. Ela possui métodos como pesquisarMusica(), pesquisarArtista(), tocarMusica() e pausarMusica().
 
-Aparelho Telefônico (AparelhoTelefonico)
-Responsável pela implementação de funcionalidades relacionadas à ligação. Ela possui métodos ligar() e atender().
+Aparelho Telefônico (AparelhoTelefonico):  Responsável pela implementação de funcionalidades relacionadas à ligação. Ela possui métodos ligar() e atender().
 
-Navegador de Internet (NavegadorInternet)
-Responsável pela implementação de funcionalidades relacionadas ao navegador web. Ela possui métodos como abrirPagina(), atualizarPagina() e fecharPagina().
+Navegador de Internet (NavegadorInternet):  Responsável pela implementação de funcionalidades relacionadas ao navegador web. Ela possui métodos como abrirPagina(), atualizarPagina() e fecharPagina().
